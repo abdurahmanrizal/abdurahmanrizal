@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@Abdurahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://telegram.me/skyvuejsx) [![Linkedin Badge](https://img.shields.io/badge/-Abdurahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurahmanargoebie/)](https://www.linkedin.com/in/abdurahmanargoebie/)
 [![Gmail Badge](https://img.shields.io/badge/-abdurahmanrizal1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdurahmanrizal1@gmail.com)](mailto:abdurahmanrizal1@gmail.com)
 
-I am Abdurahman (abdurahmanrizal) smiley. I am from Semarang, Indonesia and i am fresh graduate college student at Dian Nuswantoro University from 2015 until 2019. I love learn PHP and Javascript and Love it Vue ❤️❤️.
+I am Abdurahman (abdurahmanrizal) smiley. I am from Semarang, Indonesia and i am fresh graduate college student at Dian Nuswantoro University from 2015 until 2019. I love learn PHP and Javascript and Love it Vue and React JS❤️❤️.
 
 ## ⚡ Technologies
 
