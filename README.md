@@ -1,34 +1,32 @@
-<h2> Hello Friends <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi 👋, I'm Abdurahman</h1>
+<h3 align="center">A passionate on front end developer and back end developer from Indonesia 🇮🇩</h3>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmanrizal&label=Profile%20views&color=0e75b6&style=flat" alt="abdurahmanrizal" /> </p>
 
-[![Telegram Badge](https://img.shields.io/badge/-@Abdurahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://telegram.me/skyvuejsx) [![Linkedin Badge](https://img.shields.io/badge/-Abdurahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurahmanargoebie/)](https://www.linkedin.com/in/abdurahmanargoebie/)
-[![Gmail Badge](https://img.shields.io/badge/-abdurahmanrizal1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdurahmanrizal1@gmail.com)](mailto:abdurahmanrizal1@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurahmanrizal" alt="abdurahmanrizal" /></a> </p>
 
-I am Abdurahman (abdurahmanrizal) smiley. I am from Semarang, Indonesia and i am fresh graduate college student at Dian Nuswantoro University from 2015 until 2019. I love learn PHP and Javascript and Love it Vue and React JS❤️❤️.
+- 🔭 I’m currently working on [kudureti.com](https://kudureti.com)
 
-## ⚡ Technologies
+- 🌱 I’m currently learning **React Js, Vue Js, Express Js, Laravel, Golang**
 
-Talk to me about
+- 💬 Ask me about **React, Vue, Laravel**
 
-- Backend development using **Node Js (Express), PHP (Laravel)**
-- Frontend development using **Vue, React**
-- Map using **Google Map API**
-- DBMS using **MySQL, PostgreSQL**
-- Vesion Control using **Git**
+- 📫 How to reach me **abdurahmanrizal@gmail.com**
 
-## What i learn i write here
+- ⚡ Fun fact **I think, i'm fast learner**
 
-- [Express](node/express.md)
-- [PHP](php/php.md)
-- [Laravel](laravel/laravel.md)
-- [Vue](vue/vue.md)
-- [React](react/react.md)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abduargoebie13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abduargoebie13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdurahmanargoebie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurahmanargoebie" height="30" width="40" /></a>
+<a href="https://instagram.com/rahmanargoebie_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmanargoebie_13" height="30" width="40" /></a>
+</p>
 
-![abdurahmanrizal's github stats](https://github-readme-stats.vercel.app/api?username=abdurahmanrizal&hide=["issues"]&show_icons=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abdurahmanrizal.abdurahmanrizal)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahmanrizal&show_icons=true&locale=en&layout=compact" alt="abdurahmanrizal" /></p>
 
-`⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)`
-`⭐️ From [Ciazhar](https://github.com/ciazhar)`
-`⭐️ From [Grafiters](https://github.com/Grafiters)`
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahmanrizal&show_icons=true&locale=en" alt="abdurahmanrizal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahmanrizal&" alt="abdurahmanrizal" /></p>
