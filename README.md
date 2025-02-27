@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [kudureti.com](https://kudureti.com)
 
+- 🔭 I’m currently working on [infokejadiansemarang.com](https://infokejadiansemarang.com)
+
 - 🌱 I’m currently learning **React Js, Vue Js, Express Js, Laravel, Golang**
 
 - 💬 Ask me about **React, Vue, Laravel**
